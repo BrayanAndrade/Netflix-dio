@@ -16,5 +16,4 @@ Atualmente rodando com:
 - [x] Css
 - [x] JavaSccript
 
-## Screenshots
-<img width="90%" src="img/netflixclone.gif">
+
